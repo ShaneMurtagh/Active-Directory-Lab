@@ -52,10 +52,7 @@ Azure (VMs, VNet, resource groups), Windows Server, Active Directory Domain Serv
 
 
 
-## Scripts
 
-PowerShell scripts used during the lab are in the [`/scripts`](./scripts) folder, 
-covering tasks like creating users, creating groups, and adding users to groups.
 
 ## What I'd do next
 
